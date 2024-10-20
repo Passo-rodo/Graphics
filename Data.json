@@ -1,8 +1,8 @@
  { 
 "campanha": 10101010,
-"total disparos": 900,
+"total": 900,
 "entregue": 850,
-"não entregue": 10,
+"aguardando": 10,
 "invalidos": 40    
 }
  
