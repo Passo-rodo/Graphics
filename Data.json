@@ -1,22 +1,8 @@
-{"Campanha": {
-    "Disparos Validos": [
-         {
-         "valor": 900
-         }
-     ],
-     "Entregue": [
-         {
-             "valor": 850
-         }
-     ],
-     "Não Entregue": [
-         {
-             "valor": 10
-         }
-     ],
-     "Invalidos": [
-         {
-             "valor": 40
-         }
-     ]} 
- }
+ { 
+"Campanha": 10101010,
+"Total Disparos": 900,
+"Entregue": 850,
+"Não Entregue": 10,
+"Invalidos": 40    
+}
+ 
