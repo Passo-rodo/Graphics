@@ -1,0 +1,7 @@
+[
+    { "status": "Disparos Validos", "valor": 900 },
+    { "status": "Entregue", "valor": 850 },
+    { "status": "Não Entregue", "valor": 10 },
+    { "status": "Invalidos", "valor": 40 }
+]
+    
