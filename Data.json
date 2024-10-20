@@ -1,8 +1,8 @@
  { 
-"campanha": 10101010,
-"total": 900,
-"entregue": 850,
-"aguardando": 10,
-"invalidos": 40    
+"campanha": "10101010",
+"total": "900",
+"entregue": "850",
+"aguardando": "10",
+"invalidos": "40"    
 }
  
